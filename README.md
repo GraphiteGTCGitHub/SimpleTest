@@ -1,3 +1,3 @@
 # Demo Azure Deploy for Drexel Students
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fdev.azure.com%2Forgname%2Fprojectname%2F_apis%2Fgit%2Frepositories%2Freponame%2Fitems%3FscopePath%3D%2freponame%2fazuredeploy.json%26api-version%3D6.0)
+[![Deploy to Azure](https://portal.azure.com/#create/Microsoft.Template/uri/https:%3A%2F%2Fraw.githubusercontent.com%2FGraphiteGTCGitHub%2FSimpleTest%2Fmain%2Fazuredeploy.json?token=GHSAT0AAAAAAB4WY2BK3DJSV2E5KKUQ2YGMY5GLWOA)
