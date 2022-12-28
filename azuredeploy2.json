@@ -8,9 +8,6 @@
         "virtualMachineComputerName": {
             "type": "string"
         },
-        "virtualMachineRG": {
-            "type": "string"
-        },
         "adminUsername": {
             "type": "string"
         },
