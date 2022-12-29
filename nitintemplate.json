@@ -3,7 +3,8 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualMachineName": {
-            "type": "string"
+            "type": "string",
+            "defaultValue": "Graphite-VM"
         },
         "adminUsername": {
             "type": "string"
@@ -12,16 +13,20 @@
             "type": "secureString"
         },
         "networkInterfaceName": {
-            "type": "string"
+            "type": "string",
+            "defaultValue": "Graphite-VM-nin"
         },
         "networkSecurityGroupName": {
-            "type": "string"
+            "type": "string",
+            "defaultValue": "Graphite-VM-nsg"
         },
         "virtualNetworkName": {
-            "type": "string"
+            "type": "string",
+            "defaultValue": "Graphite-VNet"
         },
         "publicIpAddressName": {
-            "type": "string"
+            "type": "string",
+            "defaultValue": "Graphite-VM-ip"
         }
     },
     "variables": {
